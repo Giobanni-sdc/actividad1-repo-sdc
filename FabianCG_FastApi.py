@@ -4,7 +4,7 @@ app = FastAPI()
 
 app = FastAPI(title='PRACTICA FASTAPI',
 	description= 'Realizando una prueba API',
-	version= '1.0')
+	version= '1.1')
 
 @app.get('/')
 def index():

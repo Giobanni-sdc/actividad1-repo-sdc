@@ -1,2 +1,2 @@
 # actividad1-repo-sdc
- repocitorio de ka actividad 2
+ repocitorio de la actividad 2

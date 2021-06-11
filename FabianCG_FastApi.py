@@ -9,3 +9,7 @@ app = FastAPI(title='PRACTICA FASTAPI',
 @app.get('/')
 def index():
     return 'WELCOME TO MY WEBSITE'
+
+@app.get('/about')
+def about():
+    return 'My name is, FABIAN CRUZ GOMEZ'
